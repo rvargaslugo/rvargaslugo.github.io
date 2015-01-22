@@ -1,2 +1,4 @@
-body{background-color: green;}
-h1, p{color: red;}
+body{
+  background-color: green;
+  color: red;
+}
