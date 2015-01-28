@@ -10,10 +10,20 @@ h1{
 }
 #slogan{
 	font-size: 24px;
+	font-weight: bold;
+	color: rgb(0,0,0);
+}
+ul{
+	text-align: center;
+	margin: 0px;
+	padding-bottom: 45px;
 }
 footer{
 	background-color: rgb(100,100,100);
-	color: (100,100,100);
+	color: rgb(255,255,255);
+	padding: 45px;
+	font-family: avenir, helvetica, sans-serif;
+}
+a{
 	text-decoration: none;
-	padding: 30px;
 }
