@@ -25,7 +25,7 @@ footer{
 	background-color: rgb(100,100,100);
 	color: rgb(255,255,255);
 	font-family: avenir, helvetica, sans-serif;
-	position: absolute;
+	position: fixed;
     left: 0;
     bottom: 0;
     height: 100vh;
