@@ -1,8 +1,13 @@
+html{
+	position:relative;
+	min-height: 100%
+}
 body{ 
 	background-color: rgb(255,255,255);
 	color: rgb(100,100,100);
 	font-family: avenir, helvetica, sans-serif;
 	text-align: center;
+	margin: 0 0 100px
 }
 
 h1{
@@ -13,10 +18,8 @@ h1{
 	font-weight: bold;
 	color: rgb(0,0,0);
 }
-div{
-	text-align: center
-}
 ul{
+	list-style-position: inside;
 	text-align: center;
 	margin: 0px;
 	padding-bottom: 45px;
@@ -24,8 +27,12 @@ ul{
 footer{
 	background-color: rgb(100,100,100);
 	color: rgb(255,255,255);
-	padding: 45px;
 	font-family: avenir, helvetica, sans-serif;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
 }
 a{
 	text-decoration: none;
