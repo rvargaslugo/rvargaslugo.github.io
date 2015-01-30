@@ -5,8 +5,9 @@ body{
 	font-size: 16px;
 }
 ul{
-	margin: 0px;
-	padding-bottom: 45px;
+	margin: 0 auto 0 auto;
+	padding-bottom: 3em;
+	width:700px;
 }
 footer{
 	background-color: rgb(100,100,100);
