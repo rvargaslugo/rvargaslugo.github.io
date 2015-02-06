@@ -4,26 +4,25 @@ body{
 	text-align: center;
 	font-size: 16px;
 }
-ul{
-	margin: 0 auto 0 auto;
-	padding-bottom: 3em;
-	width:700px;
+section#benefits div {
+	float:left;
+	padding:1em;
+	width:25%;
+}
+section#benefits div img {
+	width:100%;
 }
 footer{
 	background-color: rgb(100,100,100);
 	color: rgb(255,255,255);
-<<<<<<< Updated upstream
 	font-family: "avenir", helvetica, sans-serif;
 	width: 100%;
-	position: fixed;left: 0;bottom: 0;
-=======
-	font-family: avenir, helvetica, sans-serif;
-	position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 100vh;
-    width: 100%;
->>>>>>> Stashed changes
+	/*position: fixed;left: 0;bottom: 0;*/
+}
+ul{
+	margin: 0 auto 0 auto;
+	padding-bottom: 3em;
+	width:700px;
 }
 a{
 	text-decoration: none;
@@ -33,4 +32,11 @@ a:hover { text-decoration:underline; }
 	font-size: 2em;
 	font-weight: bold;
 	color: rgb(0,0,0);
+}
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
 }
