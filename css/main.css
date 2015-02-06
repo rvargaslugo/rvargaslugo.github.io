@@ -12,9 +12,18 @@ ul{
 footer{
 	background-color: rgb(100,100,100);
 	color: rgb(255,255,255);
+<<<<<<< Updated upstream
 	font-family: "avenir", helvetica, sans-serif;
 	width: 100%;
 	position: fixed;left: 0;bottom: 0;
+=======
+	font-family: avenir, helvetica, sans-serif;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100vh;
+    width: 100%;
+>>>>>>> Stashed changes
 }
 a{
 	text-decoration: none;
