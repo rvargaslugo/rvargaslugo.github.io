@@ -5,6 +5,12 @@ body{
 	text-align: center;
 	font-size: 16px;
 }
+header img {
+	float:left;
+}
+nav {
+	float:right;
+}
 section#benefits div {
 	float:left;
 	padding:1em;
@@ -20,6 +26,10 @@ footer{
 	width: 100%;
 	/*position: fixed;left: 0;bottom: 0;*/
 }
+h2 {
+	background:lightgray;
+	padding:1em;
+}
 ul{
 	margin: 0 auto 0 auto;
 	padding-bottom: 3em;
@@ -29,6 +39,10 @@ a{
 	text-decoration: none;
 }
 a:hover { text-decoration:underline; }
+nav a {
+	color:rgb(100,100,100);
+	padding:1em;
+}
 #slogan{
 	font-size: 2em;
 	font-weight: bold;
