@@ -36,6 +36,10 @@ footer{
 	width: 100%;
 	/*position: fixed;left: 0;bottom: 0;*/
 }
+h1 {
+	font-family: "Khula", helvetica, sans-serif;
+	padding: 1em;
+}
 h2 {
 	font-family: "Source Serif Pro", serif;
 	padding:1em;
