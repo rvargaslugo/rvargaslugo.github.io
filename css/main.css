@@ -5,12 +5,20 @@ body{
 	text-align: center;
 	font-size: 16px;
 }
+header {
+	padding: 2em;
+}
 header img {
 	float:left;
 	height: 5em
 }
 nav {
 	float:right;
+}
+section#splash div {
+	float: left;
+	padding: 2em;
+	width: 75%;
 }
 section#benefits div {
 	float:left;
