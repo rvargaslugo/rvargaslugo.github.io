@@ -18,7 +18,7 @@ nav {
 section#splash div {
 	float: left;
 	text-align: left;
-	margin-right: 50%;
+	padding: 1em;
 }
 section#benefits div {
 	float:left;
@@ -43,7 +43,7 @@ h1 {
 h2 {
 	font-family: "Source Serif Pro", serif;
 	padding:1em;
-	text-decoration: center;
+	text-align: center;
 }
 
 h3 {
