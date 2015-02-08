@@ -43,15 +43,16 @@ h1 {
 h2 {
 	font-family: "Source Serif Pro", serif;
 	padding:1em;
+	text-decoration: center;
 }
 
 h3 {
 	font-family: "Source Serif Pro", serif;
 	font-size: 1.5em;
 	font-weight: bold;
+	text-align: center;
 }
 ul{
-	margin: 0 auto 0 auto;
 	padding-bottom: 3em;
 	text-align: left;
 }
