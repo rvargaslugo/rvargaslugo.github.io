@@ -38,7 +38,6 @@ h1 {
 	color: rgb(100,100,100);
 	font-family: "Khula", helvetica, sans-serif;
 	font-weight: bold;
-	padding: 1em;
 }
 h2 {
 	font-family: "Source Serif Pro", serif;
@@ -55,6 +54,7 @@ h3 {
 ul{
 	padding-bottom: 3em;
 	text-align: left;
+	text-indent: 3em;
 }
 a{
 	text-decoration: none;
