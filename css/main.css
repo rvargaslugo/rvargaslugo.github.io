@@ -6,7 +6,7 @@ body{
 	font-size: 16px;
 }
 header {
-	padding: 2em;
+	padding-bottom: 2em;
 }
 header img {
 	float:left;
@@ -19,6 +19,7 @@ section#splash div {
 	float: left;
 	padding: 2em;
 	width: 75%;
+	text-align: left;
 }
 section#benefits div {
 	float:left;
