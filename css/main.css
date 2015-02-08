@@ -28,13 +28,14 @@ footer{
 }
 h2 {
 	background:lightgray;
-	font-family: "Source Serif Pro", serif;
+	font-family: "khula", serif;
 	padding:1em;
 }
 ul{
 	margin: 0 auto 0 auto;
 	padding-bottom: 3em;
 	width:700px;
+	text-align: left;
 }
 a{
 	text-decoration: none;
@@ -45,10 +46,11 @@ nav a {
 	padding:1em;
 }
 #slogan{
-	font-family: "Source Serif Pro", Serif;
+	font-family: "khula", Serif;
 	font-size: 2em;
 	font-weight: bold;
 	color: rgb(0,0,0);
+	padding: 2em;
 }
 .clearfix:after { 
 	content: "."; 
