@@ -6,7 +6,8 @@ body{
 	font-size: 16px;
 }
 header img {
-	float:left;
+	float:left
+	heigh: 50%;
 }
 nav {
 	float:right;
