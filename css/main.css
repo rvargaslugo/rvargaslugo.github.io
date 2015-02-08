@@ -10,7 +10,7 @@ header {
 }
 header img {
 	float:left;
-	height: 5em
+	height: 5em;
 }
 nav {
 	float:right;
@@ -20,6 +20,7 @@ section#splash div {
 	padding: 2em;
 	width: 75%;
 	text-align: left;
+	margin-right: 75%;
 }
 section#benefits div {
 	float:left;
