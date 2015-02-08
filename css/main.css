@@ -14,10 +14,11 @@ header img {
 }
 nav {
 	float:right;
+	float: bottom;
+	background-color: rgb(255,000,000);
 }
 section#splash div {
 	float: left;
-	text-align: left;
 	padding: 1em;
 }
 section#benefits div {
