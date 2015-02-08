@@ -27,7 +27,6 @@ footer{
 	/*position: fixed;left: 0;bottom: 0;*/
 }
 h2 {
-	background:lightgray;
 	font-family: "Source Serif Pro", serif;
 	padding:1em;
 }
@@ -51,7 +50,7 @@ nav a {
 	padding:1em;
 }
 #slogan{
-	font-family: "khula", Serif;
+	font-family: "Source Serif Pro", Serif;
 	font-size: 2em;
 	font-weight: bold;
 	color: rgb(0,0,0);
