@@ -6,6 +6,7 @@ body{
 }
 header {
 	padding-bottom: 2em;
+	position: relative;
 	background-color: rgb(100,100,100);
 }
 header img {
@@ -17,6 +18,9 @@ nav {
 	background-color: rgb(255,000,000);
 	width: 100;
 	color: rgb (255,255,255);
+	position: absolute
+	bottom: 0;
+	right: 0;
 }
 section#splash div {
 	float: left;
