@@ -9,11 +9,12 @@ header {
 	background-color: rgb(100,100,100);
 }
 header img {
-	float:left;
+	float: left;
 	height: 5em;
 }
 nav {
-	float:bottom-right;
+	float:bottom;
+	float:right;
 	background-color: rgb(255,000,000);
 	width: 100;
 	color: rgb (255,255,255);
@@ -21,10 +22,12 @@ nav {
 section#splash div {
 	float: left;
 	padding: 1em;
+	width: 50%;
 }
 section#benefits div {
 	float:left;
 	padding:1em;
+	width: 25%;
 }
 section#benefits div img {
 	width:100%;
