@@ -11,13 +11,13 @@ header {
 header img {
 	float: left;
 	height: 5em;
-	position: relative;
+	position: fixed;
 }
 nav {
 	background-color: rgb(255,000,000);
 	width: 100;
 	color: rgb (255,255,255);
-	position: absolute;
+	position: relative;
 	bottom: 0;
 	right: 0;
 }
