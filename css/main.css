@@ -7,7 +7,6 @@ body{
 header {
 	padding-bottom: 2em;
 	background-color: rgb(100,100,100);
-	position: absolute;
 	width: 100%;
 }
 header img {
@@ -18,7 +17,6 @@ nav {
 	background-color: rgb(255,000,000);
 	width: 100;
 	color: rgb (255,255,255);
-	position: relative;
 	bottom: 0;
 }
 section#splash div {
