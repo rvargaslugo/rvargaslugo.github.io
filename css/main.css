@@ -6,7 +6,7 @@ body{
 }
 header {
 	padding-bottom: 2em;
-	background-color: rgb(100,100,100);
+	background-color: rgb(0,0,0);
 	width: 100%;
 }
 header img {
@@ -15,7 +15,7 @@ header img {
 }
 nav {
 	width: 100;
-	color: rgb(255,255,255);
+	color: rgb(255,0,0);
 	bottom: 0;
 }
 section#splash div {
