@@ -31,7 +31,8 @@ section#benefits div img {
 	width:100%;
 }
 footer{
-	background-color: rgb(51,51,51);
+	background-color: rgba(200,200,200,.5);
+	color: rgb(255,255,255);
 	width: 100%;
 	/*position: fixed;left: 0;bottom: 0;*/
 }
