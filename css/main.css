@@ -31,7 +31,7 @@ section#promo{
 }
 section#benefits div {
 	margin: 1em;
-	float: center;
+	float: left;
 	padding: 1em;
 	width: 25%;
 }
