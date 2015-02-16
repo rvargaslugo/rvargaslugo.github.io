@@ -27,7 +27,7 @@ section#promo{
 	margin: 1em;
 	padding: 1em;
 	text-align: center;
-	position: bottom;
+	width: 100%;
 }
 section#benefits div {
 	margin: 1em;
