@@ -27,8 +27,8 @@ section#promo{
 	margin: 1em;
 	padding: 1em;
 	text-align: center;
+	float: center;
 }
-
 section#benefits div {
 	margin: 1em;
 	float: left;
@@ -39,7 +39,6 @@ section#benefits div img {
 	width:100%;
 }
 footer{
-	background-color: rgba(200,200,200,.5);
 	color: rgb(255,255,255);
 	width: 100%;
 	padding: 3em 0;
