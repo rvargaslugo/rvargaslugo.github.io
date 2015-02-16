@@ -22,7 +22,8 @@ section#splash{
 	width: 100%;
 }
 section#promo{
-	margin: 5em;
+	background-color: rgba(200,200,200.5);
+	margin: 1em;
 	padding: 1em;
 	text-align: center;
 }
@@ -49,7 +50,6 @@ h1 {
 }
 h2 {
 	padding:1.75em;
-	text-align: center;
 }
 
 h3 {
