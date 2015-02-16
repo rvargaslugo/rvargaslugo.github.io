@@ -23,8 +23,8 @@ section#splash div {
 	width: 100%;
 }
 section#benefits div {
-	float:left;
-	padding:1em;
+	float: center;
+	padding: 1em;
 	width: 25%;
 }
 section#benefits div img {
