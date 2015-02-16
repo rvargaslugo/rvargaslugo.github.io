@@ -18,7 +18,7 @@ nav {
 	text-align: right;
 }
 section#splash{
-	margin: 50%;
+	margin: 0 50% 0 0;
 	padding: 1em;
 	float: left;
 	width: 50%;
