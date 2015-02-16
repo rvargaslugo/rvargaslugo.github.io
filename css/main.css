@@ -12,7 +12,6 @@ header img {
 	height: 5em;
 }
 nav {
-	width: 100%;
 	color: rgb(255,255,255);
 	background-color: rgb(255,0,0);
 	text-align: right;
@@ -38,7 +37,6 @@ footer{
 	/*position: fixed;left: 0;bottom: 0;*/
 }
 h1 {
-	color: rgb(100,100,100);
 	font-weight: bold;
 }
 h2 {
@@ -60,7 +58,7 @@ a{
 }
 a:hover { text-decoration:underline; }
 nav a {
-	color:rgb(100,100,100);
+	color:rgb(255,255,255);
 	padding:1em;
 }
 #slogan{
