@@ -6,18 +6,15 @@ header {
 	padding: 1em 0;
 	background-color: rgb(255,255,255);
 	width: 100%;
-	position: absolute;
 }
 header img {
 	float: left;
 	height: 5em;
-	position: absolute;
 }
 nav {
 	color: rgb(255,255,255);
 	background-color: rgb(255,0,0);
 	text-align: right;
-	position: absolute;
 }
 section#splash div {
 	margin: 5em 0 5em 0;
@@ -39,7 +36,6 @@ footer{
 	width: 100%;
 	padding: 3em 0;
 	text-align: right;
-	position: fixed;left: 0;bottom: 0;
 }
 h1 {
 	font-weight: bold;
