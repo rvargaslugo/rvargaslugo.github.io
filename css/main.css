@@ -75,3 +75,7 @@ nav a {
 	clear: both;
 	text-align: center;
 }
+span{
+	color: rgb(255,0,0);
+	font-weight: bold;
+}
