@@ -90,3 +90,10 @@ span{
 	color: rgb(255,0,0);
 	font-weight: bold;
 }
+section#faq div {
+	margin: 3em;
+	padding-bottom: 1em;
+}
+section#faq h1 {
+	text-align: center;
+}
