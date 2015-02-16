@@ -4,7 +4,7 @@ body{
 	font-size: 16px;
 }
 header {
-	padding-bottom: 2em;
+	padding-bottom: 1em;
 	background-color: rgb(255,255,255);
 	width: 100%;
 }
@@ -13,10 +13,11 @@ header img {
 	height: 5em;
 }
 nav {
-	width: 100;
-	color: rgb(0,0,0);
+	width: 100%;
+	color: rgb(255,255,255);
 	background-color: rgb(255,0,0);
 	bottom: 0;
+	text-align: right;
 }
 section#splash div {
 	margin-top: 10em;
@@ -57,9 +58,8 @@ h3 {
 	text-align: center;
 }
 ul{
-	padding-bottom: 3em;
+	padding:1em;
 	text-align: left;
-
 }
 a{
 	text-decoration: none;
