@@ -97,3 +97,15 @@ section#faq div {
 section#faq h1 {
 	text-align: center;
 }
+section#howitworks div {
+	margin: 1em;
+	float: left;
+	padding: 1em;
+	width: 33%;
+}
+section#howitworks div img {
+	width:100%;
+}
+section#howitworks h1 {
+	text-align: center;
+}
