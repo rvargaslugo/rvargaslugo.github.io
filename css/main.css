@@ -28,7 +28,7 @@ section#splash{
 section#promo{
 	margin: 1em;
 	padding: 1em;
-	text-align: center;
+	text-align: left;
 	width: 100%;
 }
 section#benefits div {
@@ -38,7 +38,7 @@ section#benefits div {
 }
 section#benefits div img {
 	width: 8em;
-	clear: both;
+	text-align: center;
 }
 section#benefits h1 {
 	text-align: center;
