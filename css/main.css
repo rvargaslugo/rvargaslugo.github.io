@@ -38,6 +38,7 @@ section#benefits div {
 }
 section#benefits div img {
 	width: 8em;
+	text-align: center;
 }
 section#benefits h1 {
 	text-align: center;
