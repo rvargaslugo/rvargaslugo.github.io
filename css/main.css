@@ -106,7 +106,7 @@ section#howitworks div {
 }
 section#howitworks div img {
 	width: 5em;
-	float:center;
+	text-align: center;
 }
 section#howitworks h1 {
 	text-align: center;
