@@ -23,11 +23,9 @@ section#splash{
 	margin: 0 50% 0 0;
 	padding: 1em 1em 5em 1em;
 	float: left;
-	display: block;
 }
 section#map{
 	margin: 50% 0 0 0;
-	display: block;
 	float: right;
 	padding: 2em;
 }
