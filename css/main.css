@@ -100,7 +100,7 @@ section#howitworks div {
 }
 section#howitworks div img {
 	width: 8em;
-	padding: 1em;
+	padding: 0em,1em;
 	text-align: left;
 }
 section#howitworks h3 {
