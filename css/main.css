@@ -33,7 +33,8 @@ section#promo{
 	float: left;
 }
 section#benefits div {
-	float: left;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 1em;
 	width: 25%;
 }
