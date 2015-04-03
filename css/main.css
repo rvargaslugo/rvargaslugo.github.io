@@ -28,14 +28,14 @@ section#splash{
 section#map{
 	float: right;
 	padding: 1em 1em 5em 1em;
-	height: 50%;
+	width: 50%;
 	display: inline-block;
 }
 section#benefits div {
 	float: left;
 	padding: 1em;
 	width: 25%;
-	display:block;
+	display: block;
 }
 section#benefits div img {
 	width: 8em;
