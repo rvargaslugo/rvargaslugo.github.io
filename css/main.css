@@ -28,7 +28,7 @@ section#splash{
 section#map{
 	margin: 0 0 0 50%;
 	float: right;
-	padding: 2em;
+	padding: 1em 1em 5em 1em;
 	width:50%;
 }
 section#benefits div {
