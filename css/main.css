@@ -25,6 +25,12 @@ section#splash{
 	float: left;
 	width: 50%;
 }
+section#splash img{
+	display: inline-block;
+	float: right;
+	width: 50%;
+	padding: 2em;
+}
 section#benefits div {
 	float: left;
 	padding: 1em;
