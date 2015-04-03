@@ -31,6 +31,7 @@ section#promo{
 	float: left;
 	width: 50%;
 	text-align: left;
+	display: inline-block;
 }
 section#benefits div {
 	float: left;
@@ -50,6 +51,7 @@ footer{
 	width: 100%;
 	padding: 3em 0;
 	text-align: right;
+	position: fixed;
 }
 h1 {
 	font-weight: bold;
