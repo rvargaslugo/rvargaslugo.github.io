@@ -25,14 +25,6 @@ section#splash{
 	float: left;
 	width: 50%;
 }
-section#promo{
-	margin: 0 50% 0 0;
-	padding: 1em;
-	float: left;
-	width: 50%;
-	text-align: left;
-	display: inline-block;
-}
 section#benefits div {
 	float: left;
 	padding: 1em;
