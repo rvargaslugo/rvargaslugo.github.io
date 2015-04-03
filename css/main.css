@@ -30,6 +30,7 @@ section#promo{
 	padding: 1em;
 	text-align: left;
 	width: 100%;
+	float: left;
 }
 section#benefits div {
 	float: left;
