@@ -22,7 +22,7 @@ nav {
 section#splash{
 	padding: 1em 1em 5em 1em;
 	float: left;
-	width:50%;
+	width:inherit;
 	display: inline-block;
 }
 section#map{
