@@ -20,14 +20,12 @@ nav {
 	text-align: right;
 }
 section#splash{
-	margin: 0 50% 0 0;
 	padding: 1em 1em 5em 1em;
 	float: left;
 	width:50%;
 	display: inline-block;
 }
 section#map{
-	margin: 0 0 0 50%;
 	float: right;
 	padding: 1em 1em 5em 1em;
 	width:50%;
