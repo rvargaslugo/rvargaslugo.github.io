@@ -41,11 +41,10 @@ section#benefits div img {
 	width: 8em;
 	text-align: center;
 	display: block;
-	margin-right: auto;
-	margin-right: auto;
+	float: none;
 }
 section#benefits h1 {
-	text-align: center;
+	text-align: left;
 }
 footer{
 	color: rgb(255,255,255);
@@ -113,5 +112,5 @@ section#howitworks div img {
 	text-align: center;
 }
 section#howitworks h1 {
-	text-align: center;
+	text-align: left;
 }
