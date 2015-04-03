@@ -26,7 +26,7 @@ section#splash{
 }
 section#map{
 	margin: 0 50% 0 0;
-	display: inline-block;
+	display: block;
 	float: right;
 	padding: 2em;
 }
