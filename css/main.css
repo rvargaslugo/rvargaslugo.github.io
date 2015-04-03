@@ -35,7 +35,7 @@ section#benefits div img {
 	text-align: left;
 }
 section#benefits h1 {
-	text-align: left;
+	text-align: center;
 }
 footer{
 	color: rgb(255,255,255);
@@ -43,6 +43,7 @@ footer{
 	width: 100%;
 	padding: 3em 0;
 	text-align: right;
+	display: block;
 }
 h1 {
 	font-weight: bold;
@@ -100,8 +101,9 @@ section#howitworks div {
 }
 section#howitworks div img {
 	width: 5em;
+	padding: 1em;
 	text-align: left;
 }
-section#howitworks h1 {
+section#howitworks h1 h3{
 	text-align: left;
 }
