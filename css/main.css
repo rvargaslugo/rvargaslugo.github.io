@@ -103,6 +103,9 @@ section#howitworks div img {
 	padding: 1em;
 	text-align: left;
 }
-section#howitworks h1 h3 {
+section#howitworks h3 {
 	text-align: left;
+}
+section#howitworks h1 {
+	text-align: center;
 }
