@@ -33,14 +33,15 @@ section#promo{
 	float: left;
 }
 section#benefits div {
-	margin-left: auto;
-	margin-right: auto;
+	float: left;
 	padding: 1em;
 	width: 25%;
 }
 section#benefits div img {
 	width: 8em;
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 section#benefits h1 {
 	text-align: center;
