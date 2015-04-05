@@ -5,7 +5,6 @@ body{
 	color: rgb(100,100,100);
 }
 header {
-	background-image: url("images/wood.jpg");
 	position:fixed:top:0;left:0;right:0;
 }
 header img {
